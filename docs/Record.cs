@@ -9,4 +9,19 @@
 //=================================================================
 
 
+/*
+
+// NuGet Info:
+<RepositoryUrl>https://github.com/pragmatic-applications/Lib_Http_Feature</RepositoryUrl>
+<Authors>Maurice Antonio Kelly @MAKMaurice</Authors>
+<Company>Pragmatic Applications</Company>
+<Description>A .NET 6.0 Generic CRUD Interface Library</Description>
+<PackageReleaseNotes>A .NET 6.0 Generic CRUD Interface Library</PackageReleaseNotes>
+<PackageTags>.NET6.0 C# Library</PackageTags>
+<PackageLicenseExpression>MIT</PackageLicenseExpression>
+<RepositoryType>.NET6.0 C# Library</RepositoryType>
+<Copyright>Pragmatic Applications - Maurice Antonio Kelly @MAKMaurice</Copyright>
+<Version>0.0.0.1</Version>
+
+//*/
 

@@ -25,7 +25,7 @@ namespace HttpServices
         public string UrlApiUploader { get; set; }
 
         public List<ImageFile> ImageFiles { get; set; } = new();
-        public string Message { get; set; } = "InputFile";
+        public string Message { get; set; } = string.Empty;
         public bool IsDisabled { get; set; } = true;
 
         public async Task UploadAsync(string fileNameStart)

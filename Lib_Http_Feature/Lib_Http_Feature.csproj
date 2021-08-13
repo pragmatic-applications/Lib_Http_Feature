@@ -1,8 +1,18 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net6.0</TargetFramework>
-    <!--<Nullable>enable</Nullable>-->
+    <TargetFramework>net5.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <RepositoryUrl>https://github.com/pragmatic-applications/Lib_Http_Feature</RepositoryUrl>
+    <Authors>Maurice Antonio Kelly @MAKMaurice</Authors>
+    <Company>Pragmatic Applications</Company>
+    <Description>.NET5.0 C# Library</Description>
+    <PackageReleaseNotes>.NET5.0 C# Library</PackageReleaseNotes>
+    <PackageTags>.NET5.0 C# Library</PackageTags>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryType>.NET5.0 C# Library</RepositoryType>
+    <Copyright>Pragmatic Applications - Maurice Antonio Kelly @MAKMaurice</Copyright>
+    <Version>0.0.0.2</Version>
   </PropertyGroup>
 
     <ItemGroup>
