@@ -22,5 +22,6 @@
 
         public string SearchTerm { get; set; }
         public string OrderBy { get; set; } = "name";
+        //public string OrderBy { get; set; }
     }
 }

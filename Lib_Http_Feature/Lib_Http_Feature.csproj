@@ -12,7 +12,7 @@
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <RepositoryType>.NET5.0 C# Library</RepositoryType>
     <Copyright>Pragmatic Applications - Maurice Antonio Kelly @MAKMaurice</Copyright>
-    <Version>0.0.0.2</Version>
+    <Version>0.0.0.3</Version>
   </PropertyGroup>
 
     <ItemGroup>

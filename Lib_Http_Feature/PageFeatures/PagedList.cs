@@ -6,7 +6,7 @@ namespace PageFeatures
 {
     public class PagedList<T> : List<T>
     {
-        public PagerData PagerData { get; set; }
+        public PagedList() => this.PagerData = new();
 
         public PagedList(List<T> items, int count, int pageNumber, int pageSize)
         {
@@ -28,5 +28,7 @@ namespace PageFeatures
 
             return new PagedList<T>(items, count, pageNumber, pageSize);
         }
+
+        public PagerData PagerData { get; set; }
     }
 }
